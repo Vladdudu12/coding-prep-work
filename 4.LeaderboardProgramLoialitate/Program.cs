@@ -61,7 +61,7 @@ class LeaderboardService
     public List<string> GetTopUsers(int n)
     {
         n = Math.Min(n, _sortedEntries.Count);
-        return _sortedEntries.Take(n).Select(e => e.UserId).ToList();
+        return _sortedEntries.Take(n).Select(e => e.UserId).ToList(); // O(n)
     }
 }
 
