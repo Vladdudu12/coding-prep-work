@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/9.ThrottlingAlerteSMS/bin/Debug/net10.0/ThrottlingAlerteSMS
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/9.ThrottlingAlerteSMS/bin/Debug/net10.0/ThrottlingAlerteSMS.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/9.ThrottlingAlerteSMS/bin/Debug/net10.0/ThrottlingAlerteSMS.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/9.ThrottlingAlerteSMS/bin/Debug/net10.0/ThrottlingAlerteSMS.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/9.ThrottlingAlerteSMS/bin/Debug/net10.0/ThrottlingAlerteSMS.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/9.ThrottlingAlerteSMS/obj/Debug/net10.0/ThrottlingAlerteSMS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/9.ThrottlingAlerteSMS/obj/Debug/net10.0/ThrottlingAlerteSMS.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/9.ThrottlingAlerteSMS/obj/Debug/net10.0/ThrottlingAlerteSMS.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/9.ThrottlingAlerteSMS/obj/Debug/net10.0/ThrottlingAlerteSMS.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/9.ThrottlingAlerteSMS/obj/Debug/net10.0/ThrottlingAlerteSMS.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/9.ThrottlingAlerteSMS/obj/Debug/net10.0/ThrottlingAlerteSMS.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/9.ThrottlingAlerteSMS/obj/Debug/net10.0/refint/ThrottlingAlerteSMS.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/9.ThrottlingAlerteSMS/obj/Debug/net10.0/ThrottlingAlerteSMS.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/9.ThrottlingAlerteSMS/obj/Debug/net10.0/ThrottlingAlerteSMS.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/9.ThrottlingAlerteSMS/obj/Debug/net10.0/ref/ThrottlingAlerteSMS.dll
