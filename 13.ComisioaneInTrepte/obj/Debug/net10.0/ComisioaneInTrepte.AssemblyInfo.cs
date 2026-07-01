@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ComisioaneInTrepte")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4ee6bee2cd3c39a67996c5f249cc34459ed7918")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d22003802aa5e07658cad738537a3a7fb584c717")]
 [assembly: System.Reflection.AssemblyProductAttribute("ComisioaneInTrepte")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ComisioaneInTrepte")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

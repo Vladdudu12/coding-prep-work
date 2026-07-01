@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/3.ProcesorIdempotentPlati/bin/Debug/net10.0/ProcesorIdempotentPlati
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/3.ProcesorIdempotentPlati/bin/Debug/net10.0/ProcesorIdempotentPlati.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/3.ProcesorIdempotentPlati/bin/Debug/net10.0/ProcesorIdempotentPlati.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/3.ProcesorIdempotentPlati/bin/Debug/net10.0/ProcesorIdempotentPlati.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/3.ProcesorIdempotentPlati/bin/Debug/net10.0/ProcesorIdempotentPlati.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/3.ProcesorIdempotentPlati/obj/Debug/net10.0/ProcesorIdempotentPlati.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/3.ProcesorIdempotentPlati/obj/Debug/net10.0/ProcesorIdempotentPlati.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/3.ProcesorIdempotentPlati/obj/Debug/net10.0/ProcesorIdempotentPlati.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/3.ProcesorIdempotentPlati/obj/Debug/net10.0/ProcesorIdempotentPlati.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/3.ProcesorIdempotentPlati/obj/Debug/net10.0/ProcesorIdempotentPlati.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/3.ProcesorIdempotentPlati/obj/Debug/net10.0/ProcesorIdempotentPlati.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/3.ProcesorIdempotentPlati/obj/Debug/net10.0/refint/ProcesorIdempotentPlati.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/3.ProcesorIdempotentPlati/obj/Debug/net10.0/ProcesorIdempotentPlati.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/3.ProcesorIdempotentPlati/obj/Debug/net10.0/ProcesorIdempotentPlati.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/3.ProcesorIdempotentPlati/obj/Debug/net10.0/ref/ProcesorIdempotentPlati.dll

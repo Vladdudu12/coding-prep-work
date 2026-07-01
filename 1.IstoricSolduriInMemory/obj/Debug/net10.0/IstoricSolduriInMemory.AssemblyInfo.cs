@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IstoricSolduriInMemory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+deb13577ccd11c4ccb8989aba6bd685a75949023")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d22003802aa5e07658cad738537a3a7fb584c717")]
 [assembly: System.Reflection.AssemblyProductAttribute("IstoricSolduriInMemory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IstoricSolduriInMemory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
