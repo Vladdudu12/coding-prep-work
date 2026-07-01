@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/12.CalculDobandaZilnica/bin/Debug/net10.0/CalculDobandaZilnica
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/12.CalculDobandaZilnica/bin/Debug/net10.0/CalculDobandaZilnica.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/12.CalculDobandaZilnica/bin/Debug/net10.0/CalculDobandaZilnica.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/12.CalculDobandaZilnica/bin/Debug/net10.0/CalculDobandaZilnica.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/12.CalculDobandaZilnica/bin/Debug/net10.0/CalculDobandaZilnica.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/12.CalculDobandaZilnica/obj/Debug/net10.0/CalculDobandaZilnica.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/12.CalculDobandaZilnica/obj/Debug/net10.0/CalculDobandaZilnica.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/12.CalculDobandaZilnica/obj/Debug/net10.0/CalculDobandaZilnica.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/12.CalculDobandaZilnica/obj/Debug/net10.0/CalculDobandaZilnica.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/12.CalculDobandaZilnica/obj/Debug/net10.0/CalculDobandaZilnica.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/12.CalculDobandaZilnica/obj/Debug/net10.0/CalculDobandaZilnica.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/12.CalculDobandaZilnica/obj/Debug/net10.0/refint/CalculDobandaZilnica.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/12.CalculDobandaZilnica/obj/Debug/net10.0/CalculDobandaZilnica.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/12.CalculDobandaZilnica/obj/Debug/net10.0/CalculDobandaZilnica.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/12.CalculDobandaZilnica/obj/Debug/net10.0/ref/CalculDobandaZilnica.dll

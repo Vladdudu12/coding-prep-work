@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThrottlingAlerteSMS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d226256d40600cdca6441fb1bf5280ee100606e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+deb13577ccd11c4ccb8989aba6bd685a75949023")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThrottlingAlerteSMS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThrottlingAlerteSMS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

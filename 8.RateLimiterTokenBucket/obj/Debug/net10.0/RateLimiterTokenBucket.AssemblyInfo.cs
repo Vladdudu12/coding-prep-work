@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RateLimiterTokenBucket")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f468e22a8d717ddbf555b09fdc31ae100941a060")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+deb13577ccd11c4ccb8989aba6bd685a75949023")]
 [assembly: System.Reflection.AssemblyProductAttribute("RateLimiterTokenBucket")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RateLimiterTokenBucket")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
