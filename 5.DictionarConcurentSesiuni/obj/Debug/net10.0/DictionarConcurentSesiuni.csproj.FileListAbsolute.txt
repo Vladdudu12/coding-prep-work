@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/5.DictionarConcurentSesiuni/obj/Debug/net10.0/DictionarConcurentSesiuni.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/5.DictionarConcurentSesiuni/obj/Debug/net10.0/DictionarConcurentSesiuni.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/5.DictionarConcurentSesiuni/obj/Debug/net10.0/DictionarConcurentSesiuni.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/5.DictionarConcurentSesiuni/obj/Debug/net10.0/DictionarConcurentSesiuni.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/5.DictionarConcurentSesiuni/obj/Debug/net10.0/DictionarConcurentSesiuni.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/5.DictionarConcurentSesiuni/bin/Debug/net10.0/DictionarConcurentSesiuni
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/5.DictionarConcurentSesiuni/bin/Debug/net10.0/DictionarConcurentSesiuni.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/5.DictionarConcurentSesiuni/bin/Debug/net10.0/DictionarConcurentSesiuni.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/5.DictionarConcurentSesiuni/bin/Debug/net10.0/DictionarConcurentSesiuni.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/5.DictionarConcurentSesiuni/bin/Debug/net10.0/DictionarConcurentSesiuni.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/5.DictionarConcurentSesiuni/obj/Debug/net10.0/DictionarConcurentSesiuni.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/5.DictionarConcurentSesiuni/obj/Debug/net10.0/refint/DictionarConcurentSesiuni.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/5.DictionarConcurentSesiuni/obj/Debug/net10.0/DictionarConcurentSesiuni.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/5.DictionarConcurentSesiuni/obj/Debug/net10.0/DictionarConcurentSesiuni.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/5.DictionarConcurentSesiuni/obj/Debug/net10.0/ref/DictionarConcurentSesiuni.dll
