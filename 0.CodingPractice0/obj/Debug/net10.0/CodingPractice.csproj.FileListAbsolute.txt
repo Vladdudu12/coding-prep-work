@@ -1,0 +1,14 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/CodingPractice/bin/Debug/net10.0/CodingPractice
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/CodingPractice/bin/Debug/net10.0/CodingPractice.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/CodingPractice/bin/Debug/net10.0/CodingPractice.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/CodingPractice/bin/Debug/net10.0/CodingPractice.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/CodingPractice/bin/Debug/net10.0/CodingPractice.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/CodingPractice/obj/Debug/net10.0/CodingPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/CodingPractice/obj/Debug/net10.0/CodingPractice.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/CodingPractice/obj/Debug/net10.0/CodingPractice.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/CodingPractice/obj/Debug/net10.0/CodingPractice.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/CodingPractice/obj/Debug/net10.0/CodingPractice.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/CodingPractice/obj/Debug/net10.0/refint/CodingPractice.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/CodingPractice/obj/Debug/net10.0/CodingPractice.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/CodingPractice/obj/Debug/net10.0/CodingPractice.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/CodingPractice/obj/Debug/net10.0/ref/CodingPractice.dll
