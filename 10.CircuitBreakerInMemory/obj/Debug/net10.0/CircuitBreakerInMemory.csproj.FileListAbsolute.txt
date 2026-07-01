@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/10.CircuitBreakerInMemory/obj/Debug/net10.0/CircuitBreakerInMemory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/10.CircuitBreakerInMemory/obj/Debug/net10.0/CircuitBreakerInMemory.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/10.CircuitBreakerInMemory/obj/Debug/net10.0/CircuitBreakerInMemory.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/10.CircuitBreakerInMemory/obj/Debug/net10.0/CircuitBreakerInMemory.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/10.CircuitBreakerInMemory/obj/Debug/net10.0/CircuitBreakerInMemory.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/10.CircuitBreakerInMemory/bin/Debug/net10.0/CircuitBreakerInMemory
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/10.CircuitBreakerInMemory/bin/Debug/net10.0/CircuitBreakerInMemory.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/10.CircuitBreakerInMemory/bin/Debug/net10.0/CircuitBreakerInMemory.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/10.CircuitBreakerInMemory/bin/Debug/net10.0/CircuitBreakerInMemory.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/10.CircuitBreakerInMemory/bin/Debug/net10.0/CircuitBreakerInMemory.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/10.CircuitBreakerInMemory/obj/Debug/net10.0/CircuitBreakerInMemory.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/10.CircuitBreakerInMemory/obj/Debug/net10.0/refint/CircuitBreakerInMemory.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/10.CircuitBreakerInMemory/obj/Debug/net10.0/CircuitBreakerInMemory.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/10.CircuitBreakerInMemory/obj/Debug/net10.0/CircuitBreakerInMemory.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/10.CircuitBreakerInMemory/obj/Debug/net10.0/ref/CircuitBreakerInMemory.dll
