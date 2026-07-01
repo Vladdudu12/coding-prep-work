@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/ComisioaneInTrepte/bin/Debug/net10.0/ComisioaneInTrepte
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/ComisioaneInTrepte/bin/Debug/net10.0/ComisioaneInTrepte.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/ComisioaneInTrepte/bin/Debug/net10.0/ComisioaneInTrepte.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/ComisioaneInTrepte/bin/Debug/net10.0/ComisioaneInTrepte.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/ComisioaneInTrepte/bin/Debug/net10.0/ComisioaneInTrepte.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/ComisioaneInTrepte/obj/Debug/net10.0/ComisioaneInTrepte.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/ComisioaneInTrepte/obj/Debug/net10.0/ComisioaneInTrepte.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/ComisioaneInTrepte/obj/Debug/net10.0/ComisioaneInTrepte.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/ComisioaneInTrepte/obj/Debug/net10.0/ComisioaneInTrepte.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/ComisioaneInTrepte/obj/Debug/net10.0/ComisioaneInTrepte.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/ComisioaneInTrepte/obj/Debug/net10.0/ComisioaneInTrepte.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/ComisioaneInTrepte/obj/Debug/net10.0/refint/ComisioaneInTrepte.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/ComisioaneInTrepte/obj/Debug/net10.0/ComisioaneInTrepte.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/ComisioaneInTrepte/obj/Debug/net10.0/ComisioaneInTrepte.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/ComisioaneInTrepte/obj/Debug/net10.0/ref/ComisioaneInTrepte.dll
