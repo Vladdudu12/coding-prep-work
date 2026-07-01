@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/22.ClasificatorAutomatCheltuieli/obj/Debug/net10.0/ClasificatorAutomatCheltuieli.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/22.ClasificatorAutomatCheltuieli/obj/Debug/net10.0/ClasificatorAutomatCheltuieli.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/22.ClasificatorAutomatCheltuieli/obj/Debug/net10.0/ClasificatorAutomatCheltuieli.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/22.ClasificatorAutomatCheltuieli/obj/Debug/net10.0/ClasificatorAutomatCheltuieli.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/22.ClasificatorAutomatCheltuieli/obj/Debug/net10.0/ClasificatorAutomatCheltuieli.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/22.ClasificatorAutomatCheltuieli/bin/Debug/net10.0/ClasificatorAutomatCheltuieli
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/22.ClasificatorAutomatCheltuieli/bin/Debug/net10.0/ClasificatorAutomatCheltuieli.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/22.ClasificatorAutomatCheltuieli/bin/Debug/net10.0/ClasificatorAutomatCheltuieli.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/22.ClasificatorAutomatCheltuieli/bin/Debug/net10.0/ClasificatorAutomatCheltuieli.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/22.ClasificatorAutomatCheltuieli/bin/Debug/net10.0/ClasificatorAutomatCheltuieli.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/22.ClasificatorAutomatCheltuieli/obj/Debug/net10.0/ClasificatorAutomatCheltuieli.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/22.ClasificatorAutomatCheltuieli/obj/Debug/net10.0/refint/ClasificatorAutomatCheltuieli.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/22.ClasificatorAutomatCheltuieli/obj/Debug/net10.0/ClasificatorAutomatCheltuieli.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/22.ClasificatorAutomatCheltuieli/obj/Debug/net10.0/ClasificatorAutomatCheltuieli.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/22.ClasificatorAutomatCheltuieli/obj/Debug/net10.0/ref/ClasificatorAutomatCheltuieli.dll
