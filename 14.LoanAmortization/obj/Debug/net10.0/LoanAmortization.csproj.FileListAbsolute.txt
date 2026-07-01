@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/14.LoanAmortization/obj/Debug/net10.0/LoanAmortization.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/14.LoanAmortization/obj/Debug/net10.0/LoanAmortization.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/14.LoanAmortization/obj/Debug/net10.0/LoanAmortization.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/14.LoanAmortization/obj/Debug/net10.0/LoanAmortization.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/14.LoanAmortization/obj/Debug/net10.0/LoanAmortization.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/14.LoanAmortization/bin/Debug/net10.0/LoanAmortization
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/14.LoanAmortization/bin/Debug/net10.0/LoanAmortization.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/14.LoanAmortization/bin/Debug/net10.0/LoanAmortization.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/14.LoanAmortization/bin/Debug/net10.0/LoanAmortization.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/14.LoanAmortization/bin/Debug/net10.0/LoanAmortization.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/14.LoanAmortization/obj/Debug/net10.0/LoanAmortization.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/14.LoanAmortization/obj/Debug/net10.0/refint/LoanAmortization.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/14.LoanAmortization/obj/Debug/net10.0/LoanAmortization.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/14.LoanAmortization/obj/Debug/net10.0/LoanAmortization.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/14.LoanAmortization/obj/Debug/net10.0/ref/LoanAmortization.dll
