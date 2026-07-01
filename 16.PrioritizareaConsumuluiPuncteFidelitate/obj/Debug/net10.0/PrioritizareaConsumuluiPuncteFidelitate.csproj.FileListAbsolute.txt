@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/16.PrioritizareaConsumuluiPuncteFidelitate/obj/Debug/net10.0/PrioritizareaConsumuluiPuncteFidelitate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/16.PrioritizareaConsumuluiPuncteFidelitate/obj/Debug/net10.0/PrioritizareaConsumuluiPuncteFidelitate.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/16.PrioritizareaConsumuluiPuncteFidelitate/obj/Debug/net10.0/PrioritizareaConsumuluiPuncteFidelitate.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/16.PrioritizareaConsumuluiPuncteFidelitate/obj/Debug/net10.0/PrioritizareaConsumuluiPuncteFidelitate.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/16.PrioritizareaConsumuluiPuncteFidelitate/obj/Debug/net10.0/PrioritizareaConsumuluiPuncteFidelitate.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/16.PrioritizareaConsumuluiPuncteFidelitate/bin/Debug/net10.0/PrioritizareaConsumuluiPuncteFidelitate
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/16.PrioritizareaConsumuluiPuncteFidelitate/bin/Debug/net10.0/PrioritizareaConsumuluiPuncteFidelitate.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/16.PrioritizareaConsumuluiPuncteFidelitate/bin/Debug/net10.0/PrioritizareaConsumuluiPuncteFidelitate.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/16.PrioritizareaConsumuluiPuncteFidelitate/bin/Debug/net10.0/PrioritizareaConsumuluiPuncteFidelitate.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/16.PrioritizareaConsumuluiPuncteFidelitate/bin/Debug/net10.0/PrioritizareaConsumuluiPuncteFidelitate.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/16.PrioritizareaConsumuluiPuncteFidelitate/obj/Debug/net10.0/PrioritizareaConsumuluiPuncteFidelitate.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/16.PrioritizareaConsumuluiPuncteFidelitate/obj/Debug/net10.0/refint/PrioritizareaConsumuluiPuncteFidelitate.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/16.PrioritizareaConsumuluiPuncteFidelitate/obj/Debug/net10.0/PrioritizareaConsumuluiPuncteFidelitate.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/16.PrioritizareaConsumuluiPuncteFidelitate/obj/Debug/net10.0/PrioritizareaConsumuluiPuncteFidelitate.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/16.PrioritizareaConsumuluiPuncteFidelitate/obj/Debug/net10.0/ref/PrioritizareaConsumuluiPuncteFidelitate.dll
