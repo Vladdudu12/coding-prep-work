@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/4.LeaderboardProgramLoialitate/LeaderboardProgramLoialitate.csproj": {}
+    "/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/2.SistemCacheExpirareTTL/SistemCacheExpirareTTL.csproj": {}
   },
   "projects": {
-    "/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/4.LeaderboardProgramLoialitate/LeaderboardProgramLoialitate.csproj": {
+    "/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/2.SistemCacheExpirareTTL/SistemCacheExpirareTTL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/4.LeaderboardProgramLoialitate/LeaderboardProgramLoialitate.csproj",
-        "projectName": "LeaderboardProgramLoialitate",
-        "projectPath": "/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/4.LeaderboardProgramLoialitate/LeaderboardProgramLoialitate.csproj",
+        "projectUniqueName": "/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/2.SistemCacheExpirareTTL/SistemCacheExpirareTTL.csproj",
+        "projectName": "SistemCacheExpirareTTL",
+        "projectPath": "/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/2.SistemCacheExpirareTTL/SistemCacheExpirareTTL.csproj",
         "packagesPath": "/Users/vladdumitrescu/.nuget/packages/",
-        "outputPath": "/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/4.LeaderboardProgramLoialitate/obj/",
+        "outputPath": "/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/2.SistemCacheExpirareTTL/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/vladdumitrescu/.nuget/NuGet/NuGet.Config"

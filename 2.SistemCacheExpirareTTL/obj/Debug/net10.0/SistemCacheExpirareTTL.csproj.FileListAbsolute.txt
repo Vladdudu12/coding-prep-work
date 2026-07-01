@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/2.SistemCacheExpirareTTL/obj/Debug/net10.0/SistemCacheExpirareTTL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/2.SistemCacheExpirareTTL/obj/Debug/net10.0/SistemCacheExpirareTTL.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/2.SistemCacheExpirareTTL/obj/Debug/net10.0/SistemCacheExpirareTTL.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/2.SistemCacheExpirareTTL/obj/Debug/net10.0/SistemCacheExpirareTTL.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/2.SistemCacheExpirareTTL/obj/Debug/net10.0/SistemCacheExpirareTTL.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/2.SistemCacheExpirareTTL/bin/Debug/net10.0/SistemCacheExpirareTTL
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/2.SistemCacheExpirareTTL/bin/Debug/net10.0/SistemCacheExpirareTTL.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/2.SistemCacheExpirareTTL/bin/Debug/net10.0/SistemCacheExpirareTTL.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/2.SistemCacheExpirareTTL/bin/Debug/net10.0/SistemCacheExpirareTTL.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/2.SistemCacheExpirareTTL/bin/Debug/net10.0/SistemCacheExpirareTTL.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/2.SistemCacheExpirareTTL/obj/Debug/net10.0/SistemCacheExpirareTTL.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/2.SistemCacheExpirareTTL/obj/Debug/net10.0/refint/SistemCacheExpirareTTL.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/2.SistemCacheExpirareTTL/obj/Debug/net10.0/SistemCacheExpirareTTL.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/2.SistemCacheExpirareTTL/obj/Debug/net10.0/SistemCacheExpirareTTL.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/2.SistemCacheExpirareTTL/obj/Debug/net10.0/ref/SistemCacheExpirareTTL.dll
