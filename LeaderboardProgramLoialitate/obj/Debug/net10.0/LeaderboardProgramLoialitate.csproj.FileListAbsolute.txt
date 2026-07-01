@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/LeaderboardProgramLoialitate/bin/Debug/net10.0/LeaderboardProgramLoialitate
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/LeaderboardProgramLoialitate/bin/Debug/net10.0/LeaderboardProgramLoialitate.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/LeaderboardProgramLoialitate/bin/Debug/net10.0/LeaderboardProgramLoialitate.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/LeaderboardProgramLoialitate/bin/Debug/net10.0/LeaderboardProgramLoialitate.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/LeaderboardProgramLoialitate/bin/Debug/net10.0/LeaderboardProgramLoialitate.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/LeaderboardProgramLoialitate/obj/Debug/net10.0/LeaderboardProgramLoialitate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/LeaderboardProgramLoialitate/obj/Debug/net10.0/LeaderboardProgramLoialitate.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/LeaderboardProgramLoialitate/obj/Debug/net10.0/LeaderboardProgramLoialitate.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/LeaderboardProgramLoialitate/obj/Debug/net10.0/LeaderboardProgramLoialitate.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/LeaderboardProgramLoialitate/obj/Debug/net10.0/LeaderboardProgramLoialitate.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/LeaderboardProgramLoialitate/obj/Debug/net10.0/LeaderboardProgramLoialitate.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/LeaderboardProgramLoialitate/obj/Debug/net10.0/refint/LeaderboardProgramLoialitate.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/LeaderboardProgramLoialitate/obj/Debug/net10.0/LeaderboardProgramLoialitate.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/LeaderboardProgramLoialitate/obj/Debug/net10.0/LeaderboardProgramLoialitate.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/LeaderboardProgramLoialitate/obj/Debug/net10.0/ref/LeaderboardProgramLoialitate.dll
