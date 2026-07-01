@@ -30,7 +30,7 @@ class BalanceService
 
     public void Process(string accountId, decimal amount, DateTime timestamp)
     {
-        if(!_transactions.ContainsKey(accountId))
+        if (!_transactions.ContainsKey(accountId))
         {
             _transactions[accountId] = new List<Transaction>();
             _prefixSums[accountId] = new List<decimal>();
@@ -50,7 +50,7 @@ class BalanceService
         decimal prevSum = insertPos > 0 ? psList[insertPos - 1] : 0m;
         psList.Insert(insertPos, prevSum + amount);
 
-        for(int i = insertPos + 1; i < psList.Count; i++)
+        for (int i = insertPos + 1; i < psList.Count; i++)
         {
             psList[i] = psList[i - 1] + txList[i].Amount;
         }
@@ -127,9 +127,9 @@ class Program
         var service = new BalanceService();
         const string accountId = "RO01";
 
-         service.Process(accountId, 100m,  DateTime.Parse("2026-06-01 10:00"));
-        service.Process(accountId, -30m,  DateTime.Parse("2026-06-05 14:00"));
-        service.Process(accountId, 50m,   DateTime.Parse("2026-06-03 09:00"));
+        service.Process(accountId, 100m, DateTime.Parse("2026-06-01 10:00"));
+        service.Process(accountId, -30m, DateTime.Parse("2026-06-05 14:00"));
+        service.Process(accountId, 50m, DateTime.Parse("2026-06-03 09:00"));
 
         var balance = service.GetBalanceAtDate(accountId, DateTime.Parse("2026-06-04"));
         Console.WriteLine($"Sold la 04 iunie: {balance}m — Așteptat: 150m — {(balance == 150m ? "✓" : "✗")}");
@@ -142,7 +142,7 @@ class Program
         var service2 = new BalanceService();
         service2.Process("acc2", 200m, DateTime.Parse("2026-06-10 17:00"));
         service2.Process("acc2", 100m, DateTime.Parse("2026-06-10 08:00")); // inserare în trecut
-        service2.Process("acc2", 50m,  DateTime.Parse("2026-06-10 12:00")); // inserare în mijloc
+        service2.Process("acc2", 50m, DateTime.Parse("2026-06-10 12:00")); // inserare în mijloc
 
         var sameDay = service2.GetBalanceAtDate("acc2", DateTime.Parse("2026-06-10"));
         Console.WriteLine($"Sold aceeași zi (3 tx out-of-order): {sameDay}m — Așteptat: 350m — {(sameDay == 350m ? "✓" : "✗")}");
@@ -150,7 +150,7 @@ class Program
         // Edge case: tranzacție cu amount 0 (validă, nu aruncă excepție)
         var service3 = new BalanceService();
         service3.Process("acc3", 500m, DateTime.Parse("2026-06-01 10:00"));
-        service3.Process("acc3", 0m,   DateTime.Parse("2026-06-02 10:00"));
+        service3.Process("acc3", 0m, DateTime.Parse("2026-06-02 10:00"));
         service3.Process("acc3", 100m, DateTime.Parse("2026-06-03 10:00"));
 
         var withZero = service3.GetBalanceAtDate("acc3", DateTime.Parse("2026-06-03"));
@@ -167,6 +167,6 @@ class Program
         // Edge case: cont inexistent
         var unknown = service.GetBalanceAtDate("RO99", DateTime.Parse("2026-06-01"));
         Console.WriteLine($"Cont inexistent: {unknown}m — Așteptat: 0m — {(unknown == 0m ? "✓" : "✗")}");
-        
+
     }
 }

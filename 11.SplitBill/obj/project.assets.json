@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/2.RateLimiterSlidingWindowLog/RateLimiterSlidingWindowLog.csproj",
-      "projectName": "RateLimiterSlidingWindowLog",
-      "projectPath": "/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/2.RateLimiterSlidingWindowLog/RateLimiterSlidingWindowLog.csproj",
+      "projectUniqueName": "/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/11.SplitBill/SplitBill.csproj",
+      "projectName": "SplitBill",
+      "projectPath": "/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/11.SplitBill/SplitBill.csproj",
       "packagesPath": "/Users/vladdumitrescu/.nuget/packages/",
-      "outputPath": "/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/2.RateLimiterSlidingWindowLog/obj/",
+      "outputPath": "/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/11.SplitBill/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vladdumitrescu/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/11.SplitBill/obj/Debug/net10.0/SplitBill.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/11.SplitBill/obj/Debug/net10.0/SplitBill.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/11.SplitBill/obj/Debug/net10.0/SplitBill.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/11.SplitBill/obj/Debug/net10.0/SplitBill.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/11.SplitBill/obj/Debug/net10.0/SplitBill.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/11.SplitBill/bin/Debug/net10.0/SplitBill
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/11.SplitBill/bin/Debug/net10.0/SplitBill.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/11.SplitBill/bin/Debug/net10.0/SplitBill.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/11.SplitBill/bin/Debug/net10.0/SplitBill.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/11.SplitBill/bin/Debug/net10.0/SplitBill.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/11.SplitBill/obj/Debug/net10.0/SplitBill.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/11.SplitBill/obj/Debug/net10.0/refint/SplitBill.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/11.SplitBill/obj/Debug/net10.0/SplitBill.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/11.SplitBill/obj/Debug/net10.0/SplitBill.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/11.SplitBill/obj/Debug/net10.0/ref/SplitBill.dll
