@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/15.CalculTaxeCastigCapital/obj/Debug/net10.0/CalculTaxeCastigCapital.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/15.CalculTaxeCastigCapital/obj/Debug/net10.0/CalculTaxeCastigCapital.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/15.CalculTaxeCastigCapital/obj/Debug/net10.0/CalculTaxeCastigCapital.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/15.CalculTaxeCastigCapital/obj/Debug/net10.0/CalculTaxeCastigCapital.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/15.CalculTaxeCastigCapital/obj/Debug/net10.0/CalculTaxeCastigCapital.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/15.CalculTaxeCastigCapital/bin/Debug/net10.0/CalculTaxeCastigCapital
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/15.CalculTaxeCastigCapital/bin/Debug/net10.0/CalculTaxeCastigCapital.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/15.CalculTaxeCastigCapital/bin/Debug/net10.0/CalculTaxeCastigCapital.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/15.CalculTaxeCastigCapital/bin/Debug/net10.0/CalculTaxeCastigCapital.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/15.CalculTaxeCastigCapital/bin/Debug/net10.0/CalculTaxeCastigCapital.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/15.CalculTaxeCastigCapital/obj/Debug/net10.0/CalculTaxeCastigCapital.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/15.CalculTaxeCastigCapital/obj/Debug/net10.0/refint/CalculTaxeCastigCapital.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/15.CalculTaxeCastigCapital/obj/Debug/net10.0/CalculTaxeCastigCapital.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/15.CalculTaxeCastigCapital/obj/Debug/net10.0/CalculTaxeCastigCapital.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/15.CalculTaxeCastigCapital/obj/Debug/net10.0/ref/CalculTaxeCastigCapital.dll
