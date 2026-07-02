@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/ExtrasContLunar/bin/Debug/net10.0/ExtrasContLunar
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/ExtrasContLunar/bin/Debug/net10.0/ExtrasContLunar.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/ExtrasContLunar/bin/Debug/net10.0/ExtrasContLunar.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/ExtrasContLunar/bin/Debug/net10.0/ExtrasContLunar.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/ExtrasContLunar/bin/Debug/net10.0/ExtrasContLunar.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/ExtrasContLunar/obj/Debug/net10.0/ExtrasContLunar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/ExtrasContLunar/obj/Debug/net10.0/ExtrasContLunar.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/ExtrasContLunar/obj/Debug/net10.0/ExtrasContLunar.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/ExtrasContLunar/obj/Debug/net10.0/ExtrasContLunar.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/ExtrasContLunar/obj/Debug/net10.0/ExtrasContLunar.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/ExtrasContLunar/obj/Debug/net10.0/ExtrasContLunar.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/ExtrasContLunar/obj/Debug/net10.0/refint/ExtrasContLunar.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/ExtrasContLunar/obj/Debug/net10.0/ExtrasContLunar.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/ExtrasContLunar/obj/Debug/net10.0/ExtrasContLunar.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/ExtrasContLunar/obj/Debug/net10.0/ref/ExtrasContLunar.dll
