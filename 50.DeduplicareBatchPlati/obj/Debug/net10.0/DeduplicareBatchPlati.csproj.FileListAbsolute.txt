@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/50.DeduplicareBatchPlati/obj/Debug/net10.0/DeduplicareBatchPlati.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/50.DeduplicareBatchPlati/obj/Debug/net10.0/DeduplicareBatchPlati.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/50.DeduplicareBatchPlati/obj/Debug/net10.0/DeduplicareBatchPlati.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/50.DeduplicareBatchPlati/obj/Debug/net10.0/DeduplicareBatchPlati.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/50.DeduplicareBatchPlati/obj/Debug/net10.0/DeduplicareBatchPlati.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/50.DeduplicareBatchPlati/bin/Debug/net10.0/DeduplicareBatchPlati
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/50.DeduplicareBatchPlati/bin/Debug/net10.0/DeduplicareBatchPlati.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/50.DeduplicareBatchPlati/bin/Debug/net10.0/DeduplicareBatchPlati.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/50.DeduplicareBatchPlati/bin/Debug/net10.0/DeduplicareBatchPlati.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/50.DeduplicareBatchPlati/bin/Debug/net10.0/DeduplicareBatchPlati.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/50.DeduplicareBatchPlati/obj/Debug/net10.0/DeduplicareBatchPlati.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/50.DeduplicareBatchPlati/obj/Debug/net10.0/refint/DeduplicareBatchPlati.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/50.DeduplicareBatchPlati/obj/Debug/net10.0/DeduplicareBatchPlati.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/50.DeduplicareBatchPlati/obj/Debug/net10.0/DeduplicareBatchPlati.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/50.DeduplicareBatchPlati/obj/Debug/net10.0/ref/DeduplicareBatchPlati.dll
