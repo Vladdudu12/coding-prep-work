@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/33.ExtrasContLunar/ExtrasContLunar.csproj",
-      "projectName": "ExtrasContLunar",
-      "projectPath": "/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/33.ExtrasContLunar/ExtrasContLunar.csproj",
+      "projectUniqueName": "/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/36.ConsolidareaTranzactiilorGroupPayouts/ConsolidareaTranzactiilorGroupPayouts.csproj",
+      "projectName": "ConsolidareaTranzactiilorGroupPayouts",
+      "projectPath": "/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/36.ConsolidareaTranzactiilorGroupPayouts/ConsolidareaTranzactiilorGroupPayouts.csproj",
       "packagesPath": "/Users/vladdumitrescu/.nuget/packages/",
-      "outputPath": "/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/33.ExtrasContLunar/obj/",
+      "outputPath": "/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/36.ConsolidareaTranzactiilorGroupPayouts/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vladdumitrescu/.nuget/NuGet/NuGet.Config"
