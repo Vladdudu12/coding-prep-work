@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/2.FacturiLipsaSecventa/bin/Debug/net10.0/FacturiLipsaSecventa
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/2.FacturiLipsaSecventa/bin/Debug/net10.0/FacturiLipsaSecventa.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/2.FacturiLipsaSecventa/bin/Debug/net10.0/FacturiLipsaSecventa.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/2.FacturiLipsaSecventa/bin/Debug/net10.0/FacturiLipsaSecventa.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/2.FacturiLipsaSecventa/bin/Debug/net10.0/FacturiLipsaSecventa.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/2.FacturiLipsaSecventa/obj/Debug/net10.0/FacturiLipsaSecventa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/2.FacturiLipsaSecventa/obj/Debug/net10.0/FacturiLipsaSecventa.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/2.FacturiLipsaSecventa/obj/Debug/net10.0/FacturiLipsaSecventa.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/2.FacturiLipsaSecventa/obj/Debug/net10.0/FacturiLipsaSecventa.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/2.FacturiLipsaSecventa/obj/Debug/net10.0/FacturiLipsaSecventa.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/2.FacturiLipsaSecventa/obj/Debug/net10.0/FacturiLipsaSecventa.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/2.FacturiLipsaSecventa/obj/Debug/net10.0/refint/FacturiLipsaSecventa.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/2.FacturiLipsaSecventa/obj/Debug/net10.0/FacturiLipsaSecventa.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/2.FacturiLipsaSecventa/obj/Debug/net10.0/FacturiLipsaSecventa.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/2.FacturiLipsaSecventa/obj/Debug/net10.0/ref/FacturiLipsaSecventa.dll
