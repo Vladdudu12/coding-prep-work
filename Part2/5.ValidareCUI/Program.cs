@@ -18,20 +18,19 @@ class Program
 
     static bool validareCifraControl(string cnp, string key)
     {
-        if (cnp.Length != 13 && key.Length != 12) return false;
+        if (string.IsNullOrEmpty(cnp) || cnp.Length != 13) return false;
+        if (string.IsNullOrEmpty(key) || key.Length != 12) return false;
+        if (!cnp.All(char.IsDigit)) return false;
 
         var sumaTotala = 0;
         for (int i = 0; i < cnp.Length - 1; i++)
         {
-            sumaTotala += Int32.Parse(cnp[i].ToString()) * Int32.Parse(key[i].ToString());
+            sumaTotala += (cnp[i] - '0') * (key[i] - '0');
         }
-        
+
         var rest = sumaTotala % 11;
         rest = rest == 10 ? 1 : rest;
 
-        if (Int32.Parse(cnp[cnp.Length - 1].ToString()) == rest) return true;
-
-        return false;
-        
+        return (cnp[12] - '0') == rest;
     }
 }
