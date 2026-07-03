@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/4.CalculProgresivImpozit/obj/Debug/net10.0/CalculProgresivImpozit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/4.CalculProgresivImpozit/obj/Debug/net10.0/CalculProgresivImpozit.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/4.CalculProgresivImpozit/obj/Debug/net10.0/CalculProgresivImpozit.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/4.CalculProgresivImpozit/obj/Debug/net10.0/CalculProgresivImpozit.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/4.CalculProgresivImpozit/obj/Debug/net10.0/CalculProgresivImpozit.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/4.CalculProgresivImpozit/bin/Debug/net10.0/CalculProgresivImpozit
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/4.CalculProgresivImpozit/bin/Debug/net10.0/CalculProgresivImpozit.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/4.CalculProgresivImpozit/bin/Debug/net10.0/CalculProgresivImpozit.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/4.CalculProgresivImpozit/bin/Debug/net10.0/CalculProgresivImpozit.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/4.CalculProgresivImpozit/bin/Debug/net10.0/CalculProgresivImpozit.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/4.CalculProgresivImpozit/obj/Debug/net10.0/CalculProgresivImpozit.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/4.CalculProgresivImpozit/obj/Debug/net10.0/refint/CalculProgresivImpozit.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/4.CalculProgresivImpozit/obj/Debug/net10.0/CalculProgresivImpozit.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/4.CalculProgresivImpozit/obj/Debug/net10.0/CalculProgresivImpozit.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/4.CalculProgresivImpozit/obj/Debug/net10.0/ref/CalculProgresivImpozit.dll
