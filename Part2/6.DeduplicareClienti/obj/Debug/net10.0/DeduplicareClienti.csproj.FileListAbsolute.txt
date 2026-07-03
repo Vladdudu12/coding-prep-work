@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/6.DeduplicareClienti/obj/Debug/net10.0/DeduplicareClienti.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/6.DeduplicareClienti/obj/Debug/net10.0/DeduplicareClienti.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/6.DeduplicareClienti/obj/Debug/net10.0/DeduplicareClienti.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/6.DeduplicareClienti/obj/Debug/net10.0/DeduplicareClienti.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/6.DeduplicareClienti/obj/Debug/net10.0/DeduplicareClienti.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/6.DeduplicareClienti/bin/Debug/net10.0/DeduplicareClienti
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/6.DeduplicareClienti/bin/Debug/net10.0/DeduplicareClienti.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/6.DeduplicareClienti/bin/Debug/net10.0/DeduplicareClienti.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/6.DeduplicareClienti/bin/Debug/net10.0/DeduplicareClienti.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/6.DeduplicareClienti/bin/Debug/net10.0/DeduplicareClienti.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/6.DeduplicareClienti/obj/Debug/net10.0/DeduplicareClienti.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/6.DeduplicareClienti/obj/Debug/net10.0/refint/DeduplicareClienti.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/6.DeduplicareClienti/obj/Debug/net10.0/DeduplicareClienti.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/6.DeduplicareClienti/obj/Debug/net10.0/DeduplicareClienti.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/6.DeduplicareClienti/obj/Debug/net10.0/ref/DeduplicareClienti.dll
