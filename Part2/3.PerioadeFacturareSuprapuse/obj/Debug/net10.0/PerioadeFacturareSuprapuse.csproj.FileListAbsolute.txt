@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/3.PerioadeFacturareSuprapuse/bin/Debug/net10.0/PerioadeFacturareSuprapuse
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/3.PerioadeFacturareSuprapuse/bin/Debug/net10.0/PerioadeFacturareSuprapuse.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/3.PerioadeFacturareSuprapuse/bin/Debug/net10.0/PerioadeFacturareSuprapuse.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/3.PerioadeFacturareSuprapuse/bin/Debug/net10.0/PerioadeFacturareSuprapuse.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/3.PerioadeFacturareSuprapuse/bin/Debug/net10.0/PerioadeFacturareSuprapuse.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/3.PerioadeFacturareSuprapuse/obj/Debug/net10.0/PerioadeFacturareSuprapuse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/3.PerioadeFacturareSuprapuse/obj/Debug/net10.0/PerioadeFacturareSuprapuse.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/3.PerioadeFacturareSuprapuse/obj/Debug/net10.0/PerioadeFacturareSuprapuse.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/3.PerioadeFacturareSuprapuse/obj/Debug/net10.0/PerioadeFacturareSuprapuse.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/3.PerioadeFacturareSuprapuse/obj/Debug/net10.0/PerioadeFacturareSuprapuse.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/3.PerioadeFacturareSuprapuse/obj/Debug/net10.0/PerioadeFacturareSuprapuse.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/3.PerioadeFacturareSuprapuse/obj/Debug/net10.0/refint/PerioadeFacturareSuprapuse.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/3.PerioadeFacturareSuprapuse/obj/Debug/net10.0/PerioadeFacturareSuprapuse.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/3.PerioadeFacturareSuprapuse/obj/Debug/net10.0/PerioadeFacturareSuprapuse.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/3.PerioadeFacturareSuprapuse/obj/Debug/net10.0/ref/PerioadeFacturareSuprapuse.dll
