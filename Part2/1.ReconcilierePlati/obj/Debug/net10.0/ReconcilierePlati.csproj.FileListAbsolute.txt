@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/ReconcilierePlati/bin/Debug/net10.0/ReconcilierePlati
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/ReconcilierePlati/bin/Debug/net10.0/ReconcilierePlati.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/ReconcilierePlati/bin/Debug/net10.0/ReconcilierePlati.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/ReconcilierePlati/bin/Debug/net10.0/ReconcilierePlati.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/ReconcilierePlati/bin/Debug/net10.0/ReconcilierePlati.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/ReconcilierePlati/obj/Debug/net10.0/ReconcilierePlati.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/ReconcilierePlati/obj/Debug/net10.0/ReconcilierePlati.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/ReconcilierePlati/obj/Debug/net10.0/ReconcilierePlati.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/ReconcilierePlati/obj/Debug/net10.0/ReconcilierePlati.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/ReconcilierePlati/obj/Debug/net10.0/ReconcilierePlati.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/ReconcilierePlati/obj/Debug/net10.0/ReconcilierePlati.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/ReconcilierePlati/obj/Debug/net10.0/refint/ReconcilierePlati.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/ReconcilierePlati/obj/Debug/net10.0/ReconcilierePlati.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/ReconcilierePlati/obj/Debug/net10.0/ReconcilierePlati.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/ReconcilierePlati/obj/Debug/net10.0/ref/ReconcilierePlati.dll
