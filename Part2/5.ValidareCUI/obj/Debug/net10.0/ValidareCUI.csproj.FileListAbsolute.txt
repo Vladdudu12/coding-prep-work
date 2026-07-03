@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/5.ValidareCUI/obj/Debug/net10.0/ValidareCUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/5.ValidareCUI/obj/Debug/net10.0/ValidareCUI.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/5.ValidareCUI/obj/Debug/net10.0/ValidareCUI.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/5.ValidareCUI/obj/Debug/net10.0/ValidareCUI.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/5.ValidareCUI/obj/Debug/net10.0/ValidareCUI.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/5.ValidareCUI/bin/Debug/net10.0/ValidareCUI
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/5.ValidareCUI/bin/Debug/net10.0/ValidareCUI.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/5.ValidareCUI/bin/Debug/net10.0/ValidareCUI.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/5.ValidareCUI/bin/Debug/net10.0/ValidareCUI.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/5.ValidareCUI/bin/Debug/net10.0/ValidareCUI.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/5.ValidareCUI/obj/Debug/net10.0/ValidareCUI.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/5.ValidareCUI/obj/Debug/net10.0/refint/ValidareCUI.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/5.ValidareCUI/obj/Debug/net10.0/ValidareCUI.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/5.ValidareCUI/obj/Debug/net10.0/ValidareCUI.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/5.ValidareCUI/obj/Debug/net10.0/ref/ValidareCUI.dll
