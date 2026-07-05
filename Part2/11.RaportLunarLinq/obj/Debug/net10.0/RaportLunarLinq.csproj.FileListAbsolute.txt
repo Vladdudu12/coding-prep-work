@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/11.RaportLunarLinq/obj/Debug/net10.0/RaportLunarLinq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/11.RaportLunarLinq/obj/Debug/net10.0/RaportLunarLinq.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/11.RaportLunarLinq/obj/Debug/net10.0/RaportLunarLinq.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/11.RaportLunarLinq/obj/Debug/net10.0/RaportLunarLinq.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/11.RaportLunarLinq/obj/Debug/net10.0/RaportLunarLinq.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/11.RaportLunarLinq/bin/Debug/net10.0/RaportLunarLinq
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/11.RaportLunarLinq/bin/Debug/net10.0/RaportLunarLinq.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/11.RaportLunarLinq/bin/Debug/net10.0/RaportLunarLinq.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/11.RaportLunarLinq/bin/Debug/net10.0/RaportLunarLinq.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/11.RaportLunarLinq/bin/Debug/net10.0/RaportLunarLinq.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/11.RaportLunarLinq/obj/Debug/net10.0/RaportLunarLinq.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/11.RaportLunarLinq/obj/Debug/net10.0/refint/RaportLunarLinq.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/11.RaportLunarLinq/obj/Debug/net10.0/RaportLunarLinq.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/11.RaportLunarLinq/obj/Debug/net10.0/RaportLunarLinq.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/11.RaportLunarLinq/obj/Debug/net10.0/ref/RaportLunarLinq.dll
