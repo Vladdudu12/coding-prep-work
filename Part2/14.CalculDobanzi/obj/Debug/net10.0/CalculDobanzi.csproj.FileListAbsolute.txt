@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/14.CalculDobanzi/obj/Debug/net10.0/CalculDobanzi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/14.CalculDobanzi/obj/Debug/net10.0/CalculDobanzi.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/14.CalculDobanzi/obj/Debug/net10.0/CalculDobanzi.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/14.CalculDobanzi/obj/Debug/net10.0/CalculDobanzi.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/14.CalculDobanzi/obj/Debug/net10.0/CalculDobanzi.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/14.CalculDobanzi/bin/Debug/net10.0/CalculDobanzi
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/14.CalculDobanzi/bin/Debug/net10.0/CalculDobanzi.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/14.CalculDobanzi/bin/Debug/net10.0/CalculDobanzi.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/14.CalculDobanzi/bin/Debug/net10.0/CalculDobanzi.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/14.CalculDobanzi/bin/Debug/net10.0/CalculDobanzi.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/14.CalculDobanzi/obj/Debug/net10.0/CalculDobanzi.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/14.CalculDobanzi/obj/Debug/net10.0/refint/CalculDobanzi.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/14.CalculDobanzi/obj/Debug/net10.0/CalculDobanzi.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/14.CalculDobanzi/obj/Debug/net10.0/CalculDobanzi.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/14.CalculDobanzi/obj/Debug/net10.0/ref/CalculDobanzi.dll
