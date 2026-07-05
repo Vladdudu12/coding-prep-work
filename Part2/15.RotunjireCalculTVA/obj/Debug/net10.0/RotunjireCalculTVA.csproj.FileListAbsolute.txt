@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/15.RotunjireCalculTVA/bin/Debug/net10.0/RotunjireCalculTVA
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/15.RotunjireCalculTVA/bin/Debug/net10.0/RotunjireCalculTVA.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/15.RotunjireCalculTVA/bin/Debug/net10.0/RotunjireCalculTVA.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/15.RotunjireCalculTVA/bin/Debug/net10.0/RotunjireCalculTVA.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/15.RotunjireCalculTVA/bin/Debug/net10.0/RotunjireCalculTVA.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/15.RotunjireCalculTVA/obj/Debug/net10.0/RotunjireCalculTVA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/15.RotunjireCalculTVA/obj/Debug/net10.0/RotunjireCalculTVA.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/15.RotunjireCalculTVA/obj/Debug/net10.0/RotunjireCalculTVA.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/15.RotunjireCalculTVA/obj/Debug/net10.0/RotunjireCalculTVA.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/15.RotunjireCalculTVA/obj/Debug/net10.0/RotunjireCalculTVA.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/15.RotunjireCalculTVA/obj/Debug/net10.0/RotunjireCalculTVA.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/15.RotunjireCalculTVA/obj/Debug/net10.0/refint/RotunjireCalculTVA.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/15.RotunjireCalculTVA/obj/Debug/net10.0/RotunjireCalculTVA.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/15.RotunjireCalculTVA/obj/Debug/net10.0/RotunjireCalculTVA.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/15.RotunjireCalculTVA/obj/Debug/net10.0/ref/RotunjireCalculTVA.dll
