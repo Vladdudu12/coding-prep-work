@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/8.UndoRedoEdit/bin/Debug/net10.0/UndoRedoEdit
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/8.UndoRedoEdit/bin/Debug/net10.0/UndoRedoEdit.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/8.UndoRedoEdit/bin/Debug/net10.0/UndoRedoEdit.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/8.UndoRedoEdit/bin/Debug/net10.0/UndoRedoEdit.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/8.UndoRedoEdit/bin/Debug/net10.0/UndoRedoEdit.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/8.UndoRedoEdit/obj/Debug/net10.0/UndoRedoEdit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/8.UndoRedoEdit/obj/Debug/net10.0/UndoRedoEdit.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/8.UndoRedoEdit/obj/Debug/net10.0/UndoRedoEdit.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/8.UndoRedoEdit/obj/Debug/net10.0/UndoRedoEdit.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/8.UndoRedoEdit/obj/Debug/net10.0/UndoRedoEdit.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/8.UndoRedoEdit/obj/Debug/net10.0/UndoRedoEdit.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/8.UndoRedoEdit/obj/Debug/net10.0/refint/UndoRedoEdit.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/8.UndoRedoEdit/obj/Debug/net10.0/UndoRedoEdit.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/8.UndoRedoEdit/obj/Debug/net10.0/UndoRedoEdit.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/8.UndoRedoEdit/obj/Debug/net10.0/ref/UndoRedoEdit.dll
