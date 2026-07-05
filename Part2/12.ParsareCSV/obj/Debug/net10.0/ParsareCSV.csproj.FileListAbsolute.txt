@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/12.ParsareCSV/obj/Debug/net10.0/ParsareCSV.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/12.ParsareCSV/obj/Debug/net10.0/ParsareCSV.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/12.ParsareCSV/obj/Debug/net10.0/ParsareCSV.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/12.ParsareCSV/obj/Debug/net10.0/ParsareCSV.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/12.ParsareCSV/obj/Debug/net10.0/ParsareCSV.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/12.ParsareCSV/bin/Debug/net10.0/ParsareCSV
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/12.ParsareCSV/bin/Debug/net10.0/ParsareCSV.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/12.ParsareCSV/bin/Debug/net10.0/ParsareCSV.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/12.ParsareCSV/bin/Debug/net10.0/ParsareCSV.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/12.ParsareCSV/bin/Debug/net10.0/ParsareCSV.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/12.ParsareCSV/obj/Debug/net10.0/ParsareCSV.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/12.ParsareCSV/obj/Debug/net10.0/refint/ParsareCSV.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/12.ParsareCSV/obj/Debug/net10.0/ParsareCSV.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/12.ParsareCSV/obj/Debug/net10.0/ParsareCSV.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/12.ParsareCSV/obj/Debug/net10.0/ref/ParsareCSV.dll
