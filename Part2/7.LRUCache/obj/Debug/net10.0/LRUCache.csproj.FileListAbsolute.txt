@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/7.LRUCache/obj/Debug/net10.0/LRUCache.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/7.LRUCache/obj/Debug/net10.0/LRUCache.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/7.LRUCache/obj/Debug/net10.0/LRUCache.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/7.LRUCache/obj/Debug/net10.0/LRUCache.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/7.LRUCache/obj/Debug/net10.0/LRUCache.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/7.LRUCache/bin/Debug/net10.0/LRUCache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/7.LRUCache/bin/Debug/net10.0/LRUCache.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/7.LRUCache/bin/Debug/net10.0/LRUCache.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/7.LRUCache/bin/Debug/net10.0/LRUCache.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/7.LRUCache/bin/Debug/net10.0/LRUCache.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/7.LRUCache/obj/Debug/net10.0/LRUCache.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/7.LRUCache/obj/Debug/net10.0/refint/LRUCache.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/7.LRUCache/obj/Debug/net10.0/LRUCache.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/7.LRUCache/obj/Debug/net10.0/LRUCache.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/7.LRUCache/obj/Debug/net10.0/ref/LRUCache.dll
