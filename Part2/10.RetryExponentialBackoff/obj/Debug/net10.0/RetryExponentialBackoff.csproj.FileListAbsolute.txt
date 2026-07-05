@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/10.RetryExponentialBackoff/obj/Debug/net10.0/RetryExponentialBackoff.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/10.RetryExponentialBackoff/obj/Debug/net10.0/RetryExponentialBackoff.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/10.RetryExponentialBackoff/obj/Debug/net10.0/RetryExponentialBackoff.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/10.RetryExponentialBackoff/obj/Debug/net10.0/RetryExponentialBackoff.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/10.RetryExponentialBackoff/obj/Debug/net10.0/RetryExponentialBackoff.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/10.RetryExponentialBackoff/bin/Debug/net10.0/RetryExponentialBackoff
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/10.RetryExponentialBackoff/bin/Debug/net10.0/RetryExponentialBackoff.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/10.RetryExponentialBackoff/bin/Debug/net10.0/RetryExponentialBackoff.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/10.RetryExponentialBackoff/bin/Debug/net10.0/RetryExponentialBackoff.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/10.RetryExponentialBackoff/bin/Debug/net10.0/RetryExponentialBackoff.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/10.RetryExponentialBackoff/obj/Debug/net10.0/RetryExponentialBackoff.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/10.RetryExponentialBackoff/obj/Debug/net10.0/refint/RetryExponentialBackoff.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/10.RetryExponentialBackoff/obj/Debug/net10.0/RetryExponentialBackoff.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/10.RetryExponentialBackoff/obj/Debug/net10.0/RetryExponentialBackoff.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/10.RetryExponentialBackoff/obj/Debug/net10.0/ref/RetryExponentialBackoff.dll
