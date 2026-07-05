@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/16.PaginareCursorBased/obj/Debug/net10.0/PaginareCursorBased.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/16.PaginareCursorBased/obj/Debug/net10.0/PaginareCursorBased.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/16.PaginareCursorBased/obj/Debug/net10.0/PaginareCursorBased.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/16.PaginareCursorBased/obj/Debug/net10.0/PaginareCursorBased.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/16.PaginareCursorBased/obj/Debug/net10.0/PaginareCursorBased.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/16.PaginareCursorBased/bin/Debug/net10.0/PaginareCursorBased
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/16.PaginareCursorBased/bin/Debug/net10.0/PaginareCursorBased.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/16.PaginareCursorBased/bin/Debug/net10.0/PaginareCursorBased.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/16.PaginareCursorBased/bin/Debug/net10.0/PaginareCursorBased.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/16.PaginareCursorBased/bin/Debug/net10.0/PaginareCursorBased.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/16.PaginareCursorBased/obj/Debug/net10.0/PaginareCursorBased.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/16.PaginareCursorBased/obj/Debug/net10.0/refint/PaginareCursorBased.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/16.PaginareCursorBased/obj/Debug/net10.0/PaginareCursorBased.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/16.PaginareCursorBased/obj/Debug/net10.0/PaginareCursorBased.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/16.PaginareCursorBased/obj/Debug/net10.0/ref/PaginareCursorBased.dll
