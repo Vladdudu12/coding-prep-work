@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/18.EditareConcurentaFactura/obj/Debug/net10.0/EditareConcurentaFactura.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/18.EditareConcurentaFactura/obj/Debug/net10.0/EditareConcurentaFactura.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/18.EditareConcurentaFactura/obj/Debug/net10.0/EditareConcurentaFactura.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/18.EditareConcurentaFactura/obj/Debug/net10.0/EditareConcurentaFactura.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/18.EditareConcurentaFactura/obj/Debug/net10.0/EditareConcurentaFactura.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/18.EditareConcurentaFactura/bin/Debug/net10.0/EditareConcurentaFactura
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/18.EditareConcurentaFactura/bin/Debug/net10.0/EditareConcurentaFactura.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/18.EditareConcurentaFactura/bin/Debug/net10.0/EditareConcurentaFactura.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/18.EditareConcurentaFactura/bin/Debug/net10.0/EditareConcurentaFactura.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/18.EditareConcurentaFactura/bin/Debug/net10.0/EditareConcurentaFactura.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/18.EditareConcurentaFactura/obj/Debug/net10.0/EditareConcurentaFactura.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/18.EditareConcurentaFactura/obj/Debug/net10.0/refint/EditareConcurentaFactura.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/18.EditareConcurentaFactura/obj/Debug/net10.0/EditareConcurentaFactura.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/18.EditareConcurentaFactura/obj/Debug/net10.0/EditareConcurentaFactura.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/18.EditareConcurentaFactura/obj/Debug/net10.0/ref/EditareConcurentaFactura.dll
