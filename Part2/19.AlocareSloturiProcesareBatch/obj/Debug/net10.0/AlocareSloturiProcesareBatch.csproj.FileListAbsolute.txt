@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/19.AlocareSloturiProcesareBatch/obj/Debug/net10.0/AlocareSloturiProcesareBatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/19.AlocareSloturiProcesareBatch/obj/Debug/net10.0/AlocareSloturiProcesareBatch.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/19.AlocareSloturiProcesareBatch/obj/Debug/net10.0/AlocareSloturiProcesareBatch.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/19.AlocareSloturiProcesareBatch/obj/Debug/net10.0/AlocareSloturiProcesareBatch.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/19.AlocareSloturiProcesareBatch/obj/Debug/net10.0/AlocareSloturiProcesareBatch.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/19.AlocareSloturiProcesareBatch/bin/Debug/net10.0/AlocareSloturiProcesareBatch
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/19.AlocareSloturiProcesareBatch/bin/Debug/net10.0/AlocareSloturiProcesareBatch.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/19.AlocareSloturiProcesareBatch/bin/Debug/net10.0/AlocareSloturiProcesareBatch.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/19.AlocareSloturiProcesareBatch/bin/Debug/net10.0/AlocareSloturiProcesareBatch.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/19.AlocareSloturiProcesareBatch/bin/Debug/net10.0/AlocareSloturiProcesareBatch.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/19.AlocareSloturiProcesareBatch/obj/Debug/net10.0/AlocareSloturiProcesareBatch.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/19.AlocareSloturiProcesareBatch/obj/Debug/net10.0/refint/AlocareSloturiProcesareBatch.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/19.AlocareSloturiProcesareBatch/obj/Debug/net10.0/AlocareSloturiProcesareBatch.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/19.AlocareSloturiProcesareBatch/obj/Debug/net10.0/AlocareSloturiProcesareBatch.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/19.AlocareSloturiProcesareBatch/obj/Debug/net10.0/ref/AlocareSloturiProcesareBatch.dll
