@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/17.DetectareTranzactiiDuplicateImport/bin/Debug/net10.0/DetectareTranzactiiDuplicateImport
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/17.DetectareTranzactiiDuplicateImport/bin/Debug/net10.0/DetectareTranzactiiDuplicateImport.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/17.DetectareTranzactiiDuplicateImport/bin/Debug/net10.0/DetectareTranzactiiDuplicateImport.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/17.DetectareTranzactiiDuplicateImport/bin/Debug/net10.0/DetectareTranzactiiDuplicateImport.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/17.DetectareTranzactiiDuplicateImport/bin/Debug/net10.0/DetectareTranzactiiDuplicateImport.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/17.DetectareTranzactiiDuplicateImport/obj/Debug/net10.0/DetectareTranzactiiDuplicateImport.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/17.DetectareTranzactiiDuplicateImport/obj/Debug/net10.0/DetectareTranzactiiDuplicateImport.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/17.DetectareTranzactiiDuplicateImport/obj/Debug/net10.0/DetectareTranzactiiDuplicateImport.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/17.DetectareTranzactiiDuplicateImport/obj/Debug/net10.0/DetectareTranzactiiDuplicateImport.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/17.DetectareTranzactiiDuplicateImport/obj/Debug/net10.0/DetectareTranzactiiDuplicateImport.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/17.DetectareTranzactiiDuplicateImport/obj/Debug/net10.0/DetectareTranzactiiDuplicateImport.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/17.DetectareTranzactiiDuplicateImport/obj/Debug/net10.0/refint/DetectareTranzactiiDuplicateImport.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/17.DetectareTranzactiiDuplicateImport/obj/Debug/net10.0/DetectareTranzactiiDuplicateImport.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/17.DetectareTranzactiiDuplicateImport/obj/Debug/net10.0/DetectareTranzactiiDuplicateImport.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/17.DetectareTranzactiiDuplicateImport/obj/Debug/net10.0/ref/DetectareTranzactiiDuplicateImport.dll
