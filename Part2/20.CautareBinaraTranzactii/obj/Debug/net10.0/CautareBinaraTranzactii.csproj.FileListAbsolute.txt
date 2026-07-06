@@ -1,0 +1,15 @@
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/20.CautareBinaraTranzactii/obj/Debug/net10.0/CautareBinaraTranzactii.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/20.CautareBinaraTranzactii/obj/Debug/net10.0/CautareBinaraTranzactii.AssemblyInfoInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/20.CautareBinaraTranzactii/obj/Debug/net10.0/CautareBinaraTranzactii.AssemblyInfo.cs
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/20.CautareBinaraTranzactii/obj/Debug/net10.0/CautareBinaraTranzactii.csproj.CoreCompileInputs.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/20.CautareBinaraTranzactii/obj/Debug/net10.0/CautareBinaraTranzactii.sourcelink.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/20.CautareBinaraTranzactii/bin/Debug/net10.0/CautareBinaraTranzactii
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/20.CautareBinaraTranzactii/bin/Debug/net10.0/CautareBinaraTranzactii.deps.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/20.CautareBinaraTranzactii/bin/Debug/net10.0/CautareBinaraTranzactii.runtimeconfig.json
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/20.CautareBinaraTranzactii/bin/Debug/net10.0/CautareBinaraTranzactii.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/20.CautareBinaraTranzactii/bin/Debug/net10.0/CautareBinaraTranzactii.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/20.CautareBinaraTranzactii/obj/Debug/net10.0/CautareBinaraTranzactii.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/20.CautareBinaraTranzactii/obj/Debug/net10.0/refint/CautareBinaraTranzactii.dll
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/20.CautareBinaraTranzactii/obj/Debug/net10.0/CautareBinaraTranzactii.pdb
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/20.CautareBinaraTranzactii/obj/Debug/net10.0/CautareBinaraTranzactii.genruntimeconfig.cache
+/Users/vladdumitrescu/Projects/GitHubRepos/coding-prep-work/Part2/20.CautareBinaraTranzactii/obj/Debug/net10.0/ref/CautareBinaraTranzactii.dll
